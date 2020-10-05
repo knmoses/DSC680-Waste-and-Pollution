@@ -1,1 +1,9 @@
-# DSC680-Waste-and-Pollution
+## Class
+Applied Data Science
+
+## About
+
+## Programming Language/Tools
+Python, Jupyter Notebook
+
+## Data
