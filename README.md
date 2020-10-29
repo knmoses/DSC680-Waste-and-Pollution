@@ -7,3 +7,9 @@ Applied Data Science
 Python, Jupyter Notebook
 
 ## Data
+
+
+## License
+MIT License
+
+Copyright (c) 2020 Krystina Moses
