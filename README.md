@@ -7,7 +7,7 @@ Applied Data Science
 Python, Jupyter Notebook
 
 ## Data
-
+Inlcuded in respository
 
 ## License
 MIT License
