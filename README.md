@@ -2,6 +2,7 @@
 Applied Data Science
 
 ## About
+This project shows the effects of Waste and Pollution on teh environment
 
 ## Programming Language/Tools
 Python, Jupyter Notebook
