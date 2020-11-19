@@ -2,9 +2,13 @@
 Applied Data Science
 
 ## About
-This project shows the effects of Waste and Pollution on teh environment
+This project shows the effects of waste and pollution on the environment
 
-## Programming Language/Tools
+## File Information
+
+## Results
+
+## Programming Language
 Python, Jupyter Notebook
 
 ## Data
