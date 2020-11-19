@@ -6,6 +6,12 @@ This project shows the effects of waste and pollution on the environment
 
 ## File Information
 
+Project Proposal: "Project 1 - Proposal.pdf"
+
+Jupyter Notebook Code: "Waste and Pollution.ipynb"
+
+Presentation: "Waste and pollution.pptx"
+
 ## Results
 
 ## Programming Language
