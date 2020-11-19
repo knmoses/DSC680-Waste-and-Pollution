@@ -34,7 +34,7 @@ like cutting the strings off disposable masks can help with sea life.
 Python, Jupyter Notebook
 
 ## Data
-Inlcuded in respository
+Datasets included in the respository
 
 * statistic_id185710_us-municipal-waste-stream_-materials-generation-1960-2017.xlsx
 
