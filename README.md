@@ -12,6 +12,10 @@ Jupyter Notebook Code: "Waste and Pollution.ipynb"
 
 Presentation: "Waste and pollution.pptx"
 
+Q & A: "Project One QA.pdf"
+
+Paper: "
+
 ## Results
 1. The amount of waste in millions is shown as rapidly increasing as the years go on. In 2017, 26.8 million tons of plastic
 were sent to landfills.
